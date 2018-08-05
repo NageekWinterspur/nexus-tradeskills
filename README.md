@@ -23,8 +23,9 @@ For inkmilling:
         startup: runs the onLoad function so you do not have to restart to set up
         
 
-    Triggers:
-        A trigger to take ink from mill and puts it into the rift automatically
+   Triggers:
+       
+       A trigger to take ink from mill and puts it into the rift automatically
             
 
 For Gathering:
@@ -41,8 +42,9 @@ For Gathering:
 	need to stop refining before the number of times you planned on, just do stoprefine and you will stop.
 
 
-     Triggers:
-     	A trigger that, no matter what you gather, it rifts what ever it is.
+   Triggers:
+     	
+	A trigger that, no matter what you gather, it rifts what ever it is.
 	
         A trigger to rift stuff after you butcher
 	
