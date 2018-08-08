@@ -1,12 +1,14 @@
 # nexus-tradeskills
 This is an ongoing package project that will give aliases and triggers for all the tradeskills in Achaea
 
+Quick Note: It requires the use of the severside queue to use effectively. For more information about the serverside queue, look at HELP 	QUEUE while in game
 
 Build Notes:
 (8/5/2018)
 What some of the stuff does.
 
 For inkmilling:
+	
 	Aliases:
 	
 	(CASE SENSITIVE) mill(color) <numofbatches> <inkperbatch>: allows you to mill multiple batches and also customize how 
@@ -23,12 +25,13 @@ For inkmilling:
         startup: runs the onLoad function so you do not have to restart to set up
         
 
-   Triggers:
+   	Triggers:
        
        A trigger to take ink from mill and puts it into the rift automatically
             
 
 For Gathering:
+	
 	Aliases:
     	
 	g <thing>: Allows you to just gather the thing you want without having to type in gather <thing>. Also has support for
@@ -42,7 +45,7 @@ For Gathering:
 	need to stop refining before the number of times you planned on, just do stoprefine and you will stop.
 
 
-   Triggers:
+   	Triggers:
      	
 	A trigger that, no matter what you gather, it rifts what ever it is.
 	
