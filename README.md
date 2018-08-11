@@ -5,7 +5,8 @@ Quick Note: It requires the use of the severside queue to use effectively. For m
 
 Build Notes:
 	
-	(8/5/2018)
+(8/5/2018)
+
 	What some of the stuff does.
 
 	For inkmilling:
@@ -60,7 +61,25 @@ Build Notes:
 		A trigger that notifies you when you get a gold flake and makes you make a happygasp (Just a fun thing, can disable this
 		or change the emote, has no effect on anything.)
         
-
+(8/8/2018)
+   	
+    	For Gathering:
+    		Aliases:
+        
+       	 	dg <thing1> <thing2>: This alias allows you to gather/butcher two items at once. This is useful for when you want to
+		gather both lumic moss and diamond dust while in an underground room but do not want to retype it for both.
+    
+    
+    	For Furnishing:
+    		Triggers:
+        
+        	Added echoes for a few samples that you can run across
+        
+        
+(8/10/2018)
+     
+     For Inkmilling:
+     	Found out that the inkmilling aliases messed up and made a work around so it actually works now.
 
 Eventually, the plan is to have this package have support for all the tradeskills but as I only have Gathering and Inkmilling, that will
 take a little time. I am hoping that I can find people to help me improve and build it so that it includes all the tradeskills
