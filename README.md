@@ -81,6 +81,11 @@ Build Notes:
      For Inkmilling:
      	Found out that the inkmilling aliases messed up and made a work around so it actually works now.
 
+(11/23/2018)
+
+	I had honestly forgot I had made this. Been busy with college and stuff so haven't really even been in realms. I am not sure if
+	I made any improvements but incase I have, I uploaded what I have so far.
+
 Eventually, the plan is to have this package have support for all the tradeskills but as I only have Gathering and Inkmilling, that will
 take a little time. I am hoping that I can find people to help me improve and build it so that it includes all the tradeskills
 
